@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studentrealitybot",
+  "private_key_id": "7c1a2c2f8c42498b9be829f8eff252f712116948",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDeer7jnktBYDUT\ngBkLAHGAyETsnWxe96G3DOkDQwzgkC/zEYm/+p5K2CW6LOSWkGb0plZSRBEiZY6l\n/tQa+3YJD+mzCOt4aRTzEVNk6ytpNyS8VePoh/y/FZ3Tw7byYF8YhiYKcsz1ICg6\nhtslJRg38dT9LZULprtOYsUYlWSoxKuSbQvjQjJrTozFYPRXIfQWmYTD9EDHBhY/\nGA+dumsbay2rjuIIMmn9h4JSyFLdbS06nCvG5hA72q+osFf3y3aKUoBZ1yIRsRlG\n4K+fF2h77NrZpxf/Ih1sygmsR5T7QZ8eWu1sy0eqw/qiCnjEk3Wt98UoiU1mVpDr\nvgASNuWnAgMBAAECggEARfcQBQEI5Zxd1K4aMg2HpFpW4pp3ND5oCurydGYnrI9r\npONFEKy+Dwd+hdgMYxUya4nL578kLE8H10gWaA3ghuUMN5N8ibdyMSantTsHweTn\nlprkO4JYh7dClRAdfoe0IEA/wlVsA0KDpDQ4wquxvBY/RweIsctTaElDdoG00CXD\nHRnSSktOJF1QFZMIzDo+5YV0/Drjbg7geleLbjB/Fn5MMpIPWO1/ZhxkAhWeZMAL\nRtr0Z3ZNaakkQIVd+Cil0RThwgYaLypHcgycWsEQu0A7V7gdgA40ORFjR+DiE1j+\nFOvHVZgMu1jSdbfSJIRVX1VG5p6K7fH1lHOCCO/f4QKBgQD4fFbQ2rqLtFrsOObZ\n1N4Ugaq0nghuoKgYj77JOYEarZaDzAs041h95JeJmYjh742Ak7uwl1DCvGztVh65\nIMcPyx08o1aaBEUY1YEEXl7JifRlTTjNc5ROF5EHhgGKVYi1Pd1gfXaSmPiB7mqi\nPx6DGpd1/mcbv2SLAuZe5DIh7wKBgQDlNRQTroGiS/zJ01zvHlYeVhoudBOfXEVq\nTiP3WLkJl1/rxNr5Ji6nwtYosC9culIMTvUCmJuTs90ti89sCxQ56O85PjekO5K5\nKowubZf1qnAEkPvT2LFnzJhGOf8RU7q78c6oUaO6BUeiwMMwuDQpAmNvu/Cjn2He\nes1dGzbPyQKBgGwuFc3PrC9uUbdN/pMPbbAX063Wr20aXJR04GbStjZbJJA0oRxh\nbgFBKAgr48AZfs1fg/MZrXtadUHOoImQj5l8oDnqEqXy/fIV4Zl5TGMJwHDp8bTg\ngMyOzgEsgjcrjdz6FgsQFDM2jdpjZeFFAY+qYA5qt5EI/kjW9lyRlJHZAoGAdbfU\nDuOySqOSOinm8hx3iG8aVT9ikJc4Q4fMaw3TQvzO0+0vtYSJs7maeh06xfofh5jJ\nt0KfrLVU5D6JEmmCQtfCfXjZ5Ox/x7/1bSb2Q8L8cyvvWndRbgkjL/Y7bS++mSZw\nx/veBf0ONKWh2hTRHTrPzSQOTErgXf5eGPKQLRkCgYAvrU2/DEEP38ZT/GiTmd7e\njaaxpDD0kcJoB1x/kPO01l9OvRcID5v7cu117tCCw1UmkfuG/LCYBLBTjRNM7S7I\nJ27q7KsXC89KdOIxD6DVlMUcjFqA8WatEL08jKxffEKWN/6m3zUquzPinCB4r/vB\nUqrBFYymh9jgAPOq8Xagrg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "studentrealitybot@studentrealitybot.iam.gserviceaccount.com",
+  "client_id": "102933371489778245625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/studentrealitybot%40studentrealitybot.iam.gserviceaccount.com"
+}

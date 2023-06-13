@@ -1,0 +1,194 @@
+# English translations for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-07-01 21:01+0500\n"
+"PO-Revision-Date: 2021-06-10 01:45+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: handlers/users/end_visa_notification.py:27
+msgid ""
+"Ваша виза заканчивается через 40 дней. Пожалуйста, принесите новую визу "
+"администратору после ее получения. Мы сделаем вам новую регистрацию."
+msgstr ""
+"Your visa expires in 40 days. Please bring your new visa to the "
+"administrator after receiving it. We will make a new registration for you"
+
+#: handlers/users/end_visa_notification.py:31
+msgid ""
+"Ваша виза заканчивается через 10 дней. Пожалуйста, принесите новую визу "
+"администратору после ее получения. Мы сделаем вам новую регистрацию."
+msgstr ""
+"Your visa expires in 10 days. Please bring your new visa to the "
+"administrator after receiving it. We will make a new registration for you"
+
+#: handlers/users/end_visa_notification.py:36
+msgid ""
+"Ваша виза заканчивается завтра. Пожалуйста, принесите новую визу "
+"администратору после ее получения. Мы сделаем вам новую регистрацию."
+msgstr ""
+"Your visa ends tomorrow. Please bring your new visa to the administrator "
+"after receiving it. We will make a new registration for you."
+
+#: handlers/users/end_visa_notification.py:41
+msgid ""
+"Срочно! Срок действия вашей визы истёк! Регистрация закончилась! "
+"Принесите новую визу, чтобы мы могли сделать вам регистрацию."
+msgstr ""
+"Urgently! Your visa has expired! Registration is over! Please bring your "
+"new visa so we will make a new registration for you."
+
+#: handlers/users/payment_notification.py:61
+msgid ""
+"Здравствуйте, {0}! Напоминаем, что сегодня необходимо внести оплату "
+"проживания в размере {1} рублей."
+msgstr ""
+"Hello {0}! We remind you that today it is necessary to pay the "
+"accommodation payment in the amount of {1} rubles."
+
+#: handlers/users/payment_notification.py:98
+#: handlers/users/payment_notification.py:103
+#: handlers/users/payment_notification.py:108
+msgid ""
+"Здравствуйте, {0}! \n"
+"Вам необходимо внести {1} и {2} рублей штраф за просроченный платеж."
+msgstr "Hello {0}! You need to pay {1} and {2} rubles penalty for late payment."
+
+#: handlers/users/start.py:35
+msgid "Вы отменили ввод!"
+msgstr "You canceled your input!"
+
+#: handlers/users/start.py:48
+msgid "Выберите язык:"
+msgstr "Choose language:"
+
+#: handlers/users/start.py:71 handlers/users/start.py:77
+msgid ""
+"Привет, {0}!\n"
+"Вы уже зарегистрированы!"
+msgstr ""
+"Hello, {0}!\n"
+"You are already registered!"
+
+#: handlers/users/start.py:82
+msgid ""
+"Привет, {0}!\n"
+"Я бот для студентов, проживающих в частных общежитиях. С моей помощью вы "
+"получите важные уведомления и сможете быстро получить ответ на свой "
+"вопрос. Чтобы начать, нужно зарегистрироваться. Вы согласны с обработкой "
+"персональных данных?"
+msgstr ""
+"Hi {0}! I am a bot for students living in private dormitories. With my "
+"help, you will receive important notifications and can quickly get an "
+"answer to your question. To get started, you need to register. Do you "
+"agree with the processing of personal data?"
+
+#: handlers/users/start.py:95
+msgid "Введите ФИО:"
+msgstr "Enter your full name:"
+
+#: handlers/users/start.py:105
+msgid "Извините, тогда вы не можете мной пользоваться."
+msgstr "Sorry, then you can't use me"
+
+#: handlers/users/start.py:115
+msgid "Вы выбрали ближнее зарубежье, виза не нужна."
+msgstr "You have chosen the near abroad, you do not need a visa."
+
+#: handlers/users/start.py:118
+msgid "Сначала сообщите о новой визе администратору."
+msgstr "First, inform the administrator about the new visa"
+
+#: handlers/users/start.py:121 handlers/users/start.py:157
+msgid "Введите, пожалуйста, дату окончания визы в формате ГГГГ.ММ.ДД:"
+msgstr "Please enter the visa expiry date in the format YYYY.MM.DD:"
+
+#: handlers/users/start.py:129 handlers/users/start.py:165
+msgid ""
+"Пожалуйста, проверьте правильность написания.\n"
+"Формат: ГГГГ.ММ.ДД"
+msgstr ""
+"Please check the spelling.\n"
+"Format: YYYY.MM.DD"
+
+#: handlers/users/start.py:134
+msgid "Спасибо, данные изменены!"
+msgstr "Thank you, the data has been changed!"
+
+#: handlers/users/start.py:141
+msgid "Выберите гражданство:"
+msgstr "Select citizenship:"
+
+#: handlers/users/start.py:149 handlers/users/start.py:168
+msgid "Расскажите, из какой вы страны:"
+msgstr "Tell us which country you are from:"
+
+#: handlers/users/start.py:176
+msgid "В каком из частных общежитий вы проживаете?"
+msgstr "Which private dormitory do you live in?"
+
+#: handlers/users/start.py:186
+msgid "Выберите номер вашей комнаты:"
+msgstr "Select your room number:"
+
+#: handlers/users/start.py:208
+msgid ""
+"Спасибо! Регистрация прошла успешно. {0}, мы рады, что вы с нами!\n"
+"Если у вас возникнут вопросы, всегда можете написать нам."
+msgstr ""
+"Thank you! Registration completed successfully. {0}, we are glad to have "
+"you with us!\n"
+"If you have any questions, you can always write to us."
+
+#: keyboards/default/change_date_visa.py:9
+msgid "Ввести новую визу."
+msgstr "Enter information about a new visa."
+
+#: keyboards/inline/cancel_keyboard.py:9
+msgid "Отменить ввод"
+msgstr "Cancel input"
+
+#: keyboards/inline/confirm_personal_data.py:9
+msgid "Да"
+msgstr "Yes"
+
+#: keyboards/inline/confirm_personal_data.py:12
+msgid "Нет"
+msgstr "No"
+
+#: keyboards/inline/keyboard_buildings.py:14
+msgid "Маршала Жукова, 3"
+msgstr "Marshal Zhukov, 3"
+
+#: keyboards/inline/keyboard_buildings.py:15
+msgid "Переулок Автоматики, 3/2"
+msgstr "Avtomatiki, 3/2"
+
+#: keyboards/inline/keyboard_buildings.py:16
+msgid "Красноармейская, 1"
+msgstr "Krasnoarmeiskaya, 1"
+
+#: keyboards/inline/keyboard_citizenship.py:9
+msgid "Безвизовая страна"
+msgstr "No visa is required"
+
+#: keyboards/inline/keyboard_citizenship.py:12
+msgid "Визовая страна"
+msgstr "Visa is required"
+
+#: keyboards/inline/write_to_us.py:9
+msgid "Написать нам"
+msgstr "Write to us"
+
